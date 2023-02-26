@@ -82,4 +82,4 @@ Run npm start to start your local server
 
 ## License
 
-The To-do list app is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The To-do list app is open-sourced software
