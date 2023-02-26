@@ -1,4 +1,4 @@
-# Fullsatck To-do List App
+# Fullstack To-do List App
 
 ## Table of contents
 * [General info](#general-info)
@@ -82,4 +82,4 @@ Run npm start to start your local server
 
 ## License
 
-The To-do list app is open-sourced software
+The Fullstack To-do list app is open-sourced software
